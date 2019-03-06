@@ -1,0 +1,10 @@
+C:\Users\Hiroto_Tanaka_Lab\Documents\Visual Studio 2017\Projects\ServoApp\ServoApp\bin\Debug\ServoApp.exe.config
+C:\Users\Hiroto_Tanaka_Lab\Documents\Visual Studio 2017\Projects\ServoApp\ServoApp\bin\Debug\ServoApp.exe
+C:\Users\Hiroto_Tanaka_Lab\Documents\Visual Studio 2017\Projects\ServoApp\ServoApp\bin\Debug\ServoApp.pdb
+C:\Users\Hiroto_Tanaka_Lab\Documents\Visual Studio 2017\Projects\ServoApp\ServoApp\obj\Debug\ServoApp.csprojAssemblyReference.cache
+C:\Users\Hiroto_Tanaka_Lab\Documents\Visual Studio 2017\Projects\ServoApp\ServoApp\obj\Debug\ServoApp.Form1.resources
+C:\Users\Hiroto_Tanaka_Lab\Documents\Visual Studio 2017\Projects\ServoApp\ServoApp\obj\Debug\ServoApp.Properties.Resources.resources
+C:\Users\Hiroto_Tanaka_Lab\Documents\Visual Studio 2017\Projects\ServoApp\ServoApp\obj\Debug\ServoApp.csproj.GenerateResource.cache
+C:\Users\Hiroto_Tanaka_Lab\Documents\Visual Studio 2017\Projects\ServoApp\ServoApp\obj\Debug\ServoApp.csproj.CoreCompileInputs.cache
+C:\Users\Hiroto_Tanaka_Lab\Documents\Visual Studio 2017\Projects\ServoApp\ServoApp\obj\Debug\ServoApp.exe
+C:\Users\Hiroto_Tanaka_Lab\Documents\Visual Studio 2017\Projects\ServoApp\ServoApp\obj\Debug\ServoApp.pdb
